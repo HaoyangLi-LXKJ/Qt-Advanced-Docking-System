@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ads_demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AdvancedDockingSystemDemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdvancedDockingSystemDemo-Debug-0ff5109e7ab6ba90cc94.json",
+					"name" : "AdvancedDockingSystemDemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdvancedDockingSystemDemo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdvancedDockingSystemDemo_autogen-Debug-eba832eea1a84c451c61.json",
+					"name" : "AdvancedDockingSystemDemo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AdvancedDockingSystemDemo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AdvancedDockingSystemDemo_autogen_timestamp_deps-Debug-59ada5ee7162da85f7af.json",
+					"name" : "AdvancedDockingSystemDemo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/build",
+		"source" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

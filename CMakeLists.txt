@@ -7,7 +7,7 @@ string(REGEX REPLACE "^[0-9]+\\.([0-9]+).*" "\\1" VERSION_MINOR "${GitTagVersion
 string(REGEX REPLACE "^[0-9]+\\.[0-9]+\\.([0-9]+).*" "\\1" VERSION_PATCH "${GitTagVersion}")
 set(VERSION_SHORT "${VERSION_MAJOR}.${VERSION_MINOR}.${VERSION_PATCH}")
 project(QtADS LANGUAGES CXX VERSION ${VERSION_SHORT})
-option(BUILD_STATIC "Build the static library" OFF)
+option(BUILD_STATIC "Build the static library" ON)
 option(BUILD_EXAMPLES "Build the examples" ON)
 if("${CMAKE_SIZEOF_VOID_P}" STREQUAL "4")
     set(ads_PlatformDir "x86")

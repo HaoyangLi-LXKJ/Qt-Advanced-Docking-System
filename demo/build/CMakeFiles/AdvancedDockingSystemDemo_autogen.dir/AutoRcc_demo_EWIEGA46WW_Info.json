@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/build/AdvancedDockingSystemDemo_autogen",
+	"CMAKE_BINARY_DIR" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo",
+	"CMAKE_SOURCE_DIR" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo",
+	"INCLUDE_DIR" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/build/AdvancedDockingSystemDemo_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/app.css",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/folder_open.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/picture_in_picture.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/create_floating_table.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/note_add.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/restore.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/help_outline.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/folder.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/save.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/date_range.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/edit.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/grid_on.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/docked_editor.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/custom-menu-button.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/create_floating_editor.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/plus.svg",
+		"E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/images/fullscreen.svg"
+	],
+	"LOCK_FILE" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/build/CMakeFiles/AdvancedDockingSystemDemo_autogen.dir/AutoRcc_demo_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "demo" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_demo.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/msvc2019/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/build/CMakeFiles/AdvancedDockingSystemDemo_autogen.dir/AutoRcc_demo_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/Workspace/ApplicationCode/ExternalLib/Qt-Advanced-Docking-System/demo/demo.qrc",
+	"VERBOSITY" : 0
+}
