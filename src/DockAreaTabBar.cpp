@@ -124,7 +124,7 @@ CDockAreaTabBar::CDockAreaTabBar(CDockAreaWidget* parent) :
 {
 	d->DockArea = parent;
 	setSizePolicy(QSizePolicy::Preferred, QSizePolicy::Preferred);
-//	setFrameStyle(QFrame::NoFrame);
+    setFrameStyle(QFrame::NoFrame);
 	setWidgetResizable(true);
 	setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
 	setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
